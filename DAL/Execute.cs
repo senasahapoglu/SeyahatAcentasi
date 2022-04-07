@@ -11,7 +11,7 @@ namespace DAL
     public class Execute
     {
         //connection string global sabit olarak tanimlandi (user/windows auth.)
-        public const string _cs = @"Server=YUNUSEMRE\SQLEXPRESS;Database=SEYAHATACENTE;User Id=sa;Password=83930621;";
+        public const string _cs = @"Server=SENASAHAPOGLU\SQLEXPRESS;Database=SEYAHATACENTE;User Id=sa;Password=87654321;";
         //public const string _cs = @"Server=Z36-HOCA\SQLEXPRESS;Database=OKUL;Trusted_Connection=True;";
 
         /// <summary>
